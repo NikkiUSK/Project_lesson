@@ -11,3 +11,6 @@ print(2*2+2 == 2*(2+2))
 
 # 4st program
 print(int(float('123.456')*10) - int(float('123.456'))*10)
+
+# Correct answer for 4st program
+print(int(float('123.456')*10) % 10)
